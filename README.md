@@ -89,6 +89,3 @@ Lists are stored as newline-separated plain text in the app's private files dire
 ---
 
 
-## Authors
-
-*Université M'Hamed Bougara de Boumerdès — Faculty of Sciences, Department of Computer Science*
